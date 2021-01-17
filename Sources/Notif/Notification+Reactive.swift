@@ -7,6 +7,7 @@
 
 #if canImport(ReactiveCocoa) && canImport(ReactiveSwift)
 import UIKit
+import ReactiveCocoaObjc
 import ReactiveCocoa
 import ReactiveSwift
 
